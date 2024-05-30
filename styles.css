@@ -7,3 +7,16 @@
 #signup{
     background: linear-gradient(10deg, #CC40EE, #5995FA);
 }
+
+.regbtn{
+    padding: 0 !important;
+    padding-top: 5px !important;
+    padding-bottom: 5px !important;
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    padding-left: 5px !important;
+    padding-right: 5px !important;
+    border: 1.5px solid #d2d2d2 !important;
+    align-items: center !important;
+}
